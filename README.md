@@ -1,1 +1,83 @@
-
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>myFirstAssignment</title>
+		<link rel="stylesheet" href="demo3.css">
+		<!-- Add any additional stylesheets or fonts here -->
+		<style>
+			/* Additional CSS styles for the long description section */
+			/* Style the header */
+			header {
+				background-color: #ffd699; /* Light orange header background */
+				padding: 10px;
+				text-align: center;
+				color: #4d2800; /* Dark brown header text */
+				border-bottom: 2px solid #4d2800; /* Dark brown border on bottom */
+			}
+			.cta-button:hover {
+				background-color: #ff9900; /* Orange color on hover */
+			}	
+			/* Style the footer */
+			footer {
+				background-color: #ffd699; /* Light orange footer background */
+				padding: 10px;
+				text-align: center;
+				color: #4d2800; /* Dark brown footer text */
+				border-top: 2px solid #4d2800; /* Dark brown border on top */
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>Welcome to my page!</h1>
+			<nav> 
+				<ul>
+				<li>
+				<a href="home.html">Home</a>
+				</li>
+				<li>
+				<a href="contact.html">Contact</a>
+				</li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<h1>Notice!</h1>
+			<p>
+				I would like to take this opportunity to share some information about myself with you all.
+			</p>
+			<h2>Who am I?</h2>
+			<p>
+				My name is 
+				<strong>Dat</strong>
+				, I am Vietnamese and I have been working in customer service for almost a decade.
+			</p>
+			<p>
+				 As a man with multiple passions, I enjoy travelling, watching anime, drawing and learning new things.
+			</p>
+			<h3>Regarding anime, below is a ranking of my favourite shows:</h3>
+			<ol>
+				<li>One Piece</li>
+				<li>Naruto</li>
+				<li>Kimetsu no Yaiba</li>
+			</ol>
+			<figure>
+				<img src="https://cdn.myanimelist.net/images/manga/2/165199.jpg" style="width: 10%;" alt="One Piece Party">
+				<img src="https://cdn.myanimelist.net/images/manga/3/249658.jpg" style="width: 10%;" alt="Naruto">
+				<img src="https://cdn.myanimelist.net/images/manga/3/179023.jpg" style="width: 10%;" alt="Kimetsu no Yaiba">
+			</figure>
+			<p>
+				The list continues. I hope you are as enthusiastic as I am!
+			</p>
+			<p>
+				Feel free to consult this 
+				<a href="https://myanimelist.net/topanime.php?type=bypopularity"> Top Anime list</a>
+				 for inspiration or guidance if you are new to the genre!
+			</p>
+		</main>
+		<footer>
+			&copy;2024 Dat Tran
+		</footer>
+	</body>
+</html>
