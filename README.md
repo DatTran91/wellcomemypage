@@ -5,28 +5,6 @@
 		<title>myFirstAssignment</title>
 		<link rel="stylesheet" href="demo3.css">
 		<!-- Add any additional stylesheets or fonts here -->
-		<style>
-			/* Additional CSS styles for the long description section */
-			/* Style the header */
-			header {
-				background-color: #ffd699; /* Light orange header background */
-				padding: 10px;
-				text-align: center;
-				color: #4d2800; /* Dark brown header text */
-				border-bottom: 2px solid #4d2800; /* Dark brown border on bottom */
-			}
-			.cta-button:hover {
-				background-color: #ff9900; /* Orange color on hover */
-			}	
-			/* Style the footer */
-			footer {
-				background-color: #ffd699; /* Light orange footer background */
-				padding: 10px;
-				text-align: center;
-				color: #4d2800; /* Dark brown footer text */
-				border-top: 2px solid #4d2800; /* Dark brown border on top */
-			}
-		</style>
 	</head>
 	<body>
 		<header>
